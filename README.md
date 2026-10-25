@@ -46,7 +46,5 @@ También he sido Manager, administrador y miembro del staff de diferentes proyec
 │  └─ Rol: Administrador / Owner
 │     Tiempo: Activo
 │     Incorporados: +400
+https://discord.gg/M3ZwAxU8n
 ```
----
-
-*Orvex — Building projects, creating possibilities.*
