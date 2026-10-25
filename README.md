@@ -46,5 +46,11 @@ También he sido Manager, administrador y miembro del staff de diferentes proyec
 │  └─ Rol: Administrador / Owner
 │     Tiempo: Activo
 │     Incorporados: +400
-https://discord.gg/M3ZwAxU8n
 ```
+## ✦ Discord
+
+<p align="center">
+  <a href="https://discord.gg/M3ZwAxU8n">
+    <img src="https://img.shields.io/badge/Discord-Join%20Orvex-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Orvex Discord">
+  </a>
+</p>
