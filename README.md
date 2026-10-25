@@ -38,13 +38,13 @@ También he sido Manager, administrador y miembro del staff de diferentes proyec
 ● 2026 – Actualidad
 │  QyroProgramm
 │  └─ Rol: Sr. Admin / Gestor
-│     Tiempo: Activo
+│     Actividad: Cerrado
 │     Usuarios: +10 | Incorporados: +7
 │
 ● 2026 – Actualidad
 │  Orvex
 │  └─ Rol: Administrador / Owner
-│     Tiempo: Activo
+│     Actividad: Activo
 │     Incorporados: +400
 ```
 ## ✦ Discord
