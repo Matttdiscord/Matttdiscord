@@ -45,7 +45,7 @@ También he sido Manager, administrador y miembro del staff de diferentes proyec
 │  Orvex
 │  └─ Rol: Administrador / Owner
 │     Actividad: Activo
-│     Incorporados: +400
+│     Descargas: +550
 ```
 ## ✦ Discord
 
